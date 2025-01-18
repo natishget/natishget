@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Natnael:
-👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Computer Science Graduate from Unity University, Addis Ababa<br>🤝 Front-End Development Intern at Guaz Logistics<br>🌱 Learning Cybersecurity on Coursera<br>⚡ Fun Fact: I find humor in almost everything!
+👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Computer Science Graduate from Unity University, Addis Ababa<br>🤝 Full-Stack Developer Intern at Afrobin Logistics<br>🌱 Working on personal project<br>⚡ Fun Fact: I find humor in almost everything!
 
 
 ## 🌐 Socials:
@@ -10,33 +10,13 @@
 
 # 🛠️ Some of My Real works
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+# Projects
 
-  <a href="https://www.dallolaluminum.com/" style="margin: 10px; text-align: center; width: 30%; text-decoration: none;">
-    <div style="">
-      <h3>Dallol Aluminum</h3>
-      <img src="./dallol.png" alt="Dallol Aluminum Website" style="border-radius: 20px; width: 300px; height: auto;">
-    </div>
-    <p> A website developed for Dallol Aluminum <br/>supplier in Ethiopia, showcasing their business. <br/> Built with ReactJS and TailwindCSS.</p>
-  </a>
+| [Dallol Aluminum](https://www.dallolaluminum.com/) | [AddisLife Realestate](https://addisliferealestate.net/) | [Kermen Aluminum](https://www.kermenaluminium.com.et/) |
+|----------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------|
+| ![Dallol Aluminum](./dallol.png)                  | ![AddisLife Realestate](./addisLife.png)                 | ![Kermen Aluminum](./kermen.png)                      |
+| A website developed for Dallol Aluminum supplier in Ethiopia, showcasing their business. Built with ReactJS and TailwindCSS. | A dynamic website developed for Addis Life Realestate in Ethiopia, highlighting their business and news. Built with PHP, MySQL, and TailwindCSS. | A website developed for Kermen Aluminum supplier in Ethiopia, showcasing their business. Built with ReactJS and TailwindCSS. |
 
-  <div style="margin: 10px; text-align: center; width: 30%">
-    <a href="https://addisliferealestate.net/" style="text-decoration: none;">
-      <h3>AddisLife Realestate</h3>
-      <img src="./addisLife.png" alt="AddisLife Realestate Website" style="border-radius: 20px; width: 300px; height: auto;">
-    </a>
-    <p> A dynamic website developed for Addis Life <br/>Realestate in Ethiopia, highlighting their business <br/> and news. Built with PHP, MySQL, and TailwindCSS.</p>
-  </div>
-
-  <div style="margin: 10px; text-align: center; width: 30%">
-    <a href="https://www.kermenaluminium.com.et/" style="text-decoration: none;">
-      <h3>Kermen Aluminum</h3>
-      <img src="./kermen.png" alt="Kermen Aluminum Website" style="border-radius: 20px; width: 300px; height: auto;">
-    </a>
-    <p> A website developed for Kermen Aluminum supplier <br/> in Ethiopia, showcasing their business. Built with <br/> ReactJS and TailwindCSS.</p>
-  </div>
-
-</div>
 
 
 # 📊 GitHub Stats:
