@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Natnael:
-👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Computer Science Graduate from Unity University, Addis Ababa<br>🤝 Full-Stack Developer Intern at Afrobin Logistics<br>🌱 Working on personal project<br>⚡ Always Exploring: From ethical hacking to emerging tech, I love figuring out how things work!
+👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Computer Science Graduate from Unity University, Addis Ababa<br>🤝 Full-Stack Developer at ThinkHub ET Innovations<br>🌱 Working on personal project<br>⚡ Always Exploring: From ethical hacking to emerging tech, I love figuring out how things work!
 
 
 ## 🌐 Socials:
