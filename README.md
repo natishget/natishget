@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Natnael:
-👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Computer Science Graduate from Unity University, Addis Ababa<br>🤝 Full-Stack Developer at ThinkHub ET Innovations<br>🌱 Working on personal project<br>⚡ Always Exploring: New Tech Stack 
+👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Developing Personal Project (EasyBuy and KeWedaje)<br>🤝 Full-Stack Developer and QA at ThinkHub ET Innovations<br>🌱 Working on personal project<br>⚡ Always Exploring: New Tech Stack (NestJs, PostgreSQL and React Native) 
 
 
 ## 🌐 Socials:
