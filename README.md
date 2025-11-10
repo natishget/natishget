@@ -23,10 +23,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=natishget&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=natishget&theme=dark&hide_border=false)<br/>
 
-## 📊 Most Used Languages
-
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
