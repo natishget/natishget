@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Natnael:
-👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Developing Personal Project (EasyBuy and KeWedaje)<br>🤝 Full-Stack Developer and QA at ThinkHub ET Innovations<br>🌱 Working on personal project<br>⚡ Always Exploring: New Tech Stack (NestJs, PostgreSQL and React Native) 
+👨‍💻 Software Engineer (Full-Stack Developer)<br>👨‍🎓 Developing Personal Project (EasyBuy and KeWedaje)<br>🤝 Full-Stack Developer and QA at ThinkHub ET Innovations<br>🌱 Love Collaborating with people<br>⚡ Always Exploring New Technologies
 
 
 ## 🌐 Socials:
